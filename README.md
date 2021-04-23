@@ -1,7 +1,7 @@
-## Opa, visitante. 
-## Criei essa conta para me incentivar nos estudos e incentivar quem queira se aventurar nesse ramo de T.I
-## Para mais informações sobre mim acesse aqui > https://tjorge3.github.io/ <
-
+<h1> Opa, visitante. </h1> 
+<p> Criei essa conta para me incentivar nos estudos e incentivar quem queira se aventurar nesse ramo de T.I <br>
+  Para mais informações sobre mim acesse aqui > https://tjorge3.github.io/ < </p>
+ 
 <!--
 **tJorge3/tJorge3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
