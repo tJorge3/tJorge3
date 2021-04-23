@@ -1,6 +1,6 @@
 <h1> Opa, visitante. </h1> 
-<p> Criei essa conta para me incentivar nos estudos e incentivar quem queira se aventurar nesse ramo de T.I <br>
-  Para mais informações sobre mim acesse aqui > https://tjorge3.github.io/ < </p>
+<h2> Criei essa conta para me incentivar nos estudos e incentivar quem queira se aventurar nesse ramo de T.I <br>
+  Para mais informações sobre mim acesse aqui > https://tjorge3.github.io/ < </h2>
  
 <!--
 **tJorge3/tJorge3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
