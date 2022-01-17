@@ -1,5 +1,4 @@
-<h2>Hello. I created this account on GitHub with the aim of encouraging myself and others in the study.
-To get to know me a little better, click here >> > https://tjorge3.github.io/ < </h2>
+<h2>Hello. I created this account on GitHub with the aim of encouraging myself and others in the study. </h2>
  
 <!--
 **tJorge3/tJorge3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
